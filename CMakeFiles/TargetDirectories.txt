@@ -1,0 +1,3 @@
+C:/Users/trmth/Desktop/tg/build/CMakeFiles/OpenCVCamera.dir
+C:/Users/trmth/Desktop/tg/build/CMakeFiles/edit_cache.dir
+C:/Users/trmth/Desktop/tg/build/CMakeFiles/rebuild_cache.dir

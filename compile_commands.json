@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/trmth/Desktop/tg/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/OpenCVCamera.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenCVCamera.dir\\main.cpp.obj -c C:\\Users\\trmth\\Desktop\\tg\\main.cpp",
+  "file": "C:/Users/trmth/Desktop/tg/main.cpp",
+  "output": "CMakeFiles/OpenCVCamera.dir/main.cpp.obj"
+}
+]
